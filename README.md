@@ -4,14 +4,14 @@ Open documentation on how Squeeble develops projects and creates corresponding d
 
 ## Table of Contents
 
-- [Git](##Git)
-  - [What is Git](###What-is-git?)
-  - [Why GitHub](###Why-do-we-use-Git-/-GitHub?)
-  - [Commits](###Commits)
-  - [Branching](###Branching)
-  - [Issues](###Issues)
+- [Git](#git)
+  - [What is Git](#what-is-git?)
+  - [Why GitHub](#why-do-we-use-Git-/-GitHub?)
+  - [Commits](#commits)
+  - [Branching](#branching)
+  - [Issues](#issues)
 
-- [MarkDown](##Markdown)
+- [MarkDown](#markdown)
   - What is Markdown
   - Why Markdown files
   - Linking within a file
